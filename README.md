@@ -15,7 +15,6 @@ and how to properly fix them.
 ## Project Documents
 - 📄 [Project Proposal](./PROJECT%20PROPOSAL-%20team2-Updated.pdf)
 - 📅 [Project Management Plan](./Project%20Management%20Plan-Updated.pdf)
-## Backend - Authentication & Security Module
-🔗 [AuthSystem-Backend](https://github.com/Winners-team2/AuthSystem-Backend)
-## Backend - Core Banking Features
-🔗 [Core-Banking-Features-Backend](https://github.com/Winners-team2/Core-Banking-Features-Backend)
+## 💻 Source Code
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-LastChance-181717?logo=github)](https://github.com/Maryam-7503/LastChance)
