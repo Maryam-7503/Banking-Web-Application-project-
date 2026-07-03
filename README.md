@@ -17,4 +17,7 @@ and how to properly fix them.
 - 📅 [Project Management Plan](./Project%20Management%20Plan-Updated.pdf)
 ## 💻 Source Code
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-LastChance-181717?logo=github)](https://github.com/Maryam-7503/LastChance)
+This repository contains the complete implementation of the Banking Web Application, including both the frontend and backend components.
+
+🔗 **Repository:**  
+https://github.com/Maryam-7503/LastChance
