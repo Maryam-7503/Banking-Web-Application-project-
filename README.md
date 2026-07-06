@@ -21,3 +21,13 @@ This repository contains the complete implementation of the Banking Web Applicat
 
 🔗 **Repository:**  
 https://github.com/Maryam-7503/LastChance
+
+## 📄 Security Report
+
+The full penetration testing report for this project (Winners Bank) is available here:
+
+📎 [View Full Report](https://drive.google.com/file/d/1qZDyH-YpUWS7tKXkfWqVeTEOoNkp8hFf/view?usp=sharing)
+
+
+
+> ⚠️ This report is for educational/academic purposes as part of a graduation project.
